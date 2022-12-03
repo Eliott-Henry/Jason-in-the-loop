@@ -1,6 +1,6 @@
 # Jason in the loop
 
-Welcome to this pltform game, yet uncomplete. The concept of this game is that you can record past version of yourself and make them play in a loop, and interact with them (for example, jump on a clone to get to higher places)
+Welcome to this platform game, yet uncomplete. The concept of this game is that you can record past version of yourself and make them play in a loop, and interact with them (for example, jump on a clone to get to higher places)
 
 ## Quick overview of commands : 
 
